@@ -1,38 +1,37 @@
 <a href="https://buymeacoffee.com/abdullaherturk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-# RustDesk-ID-Changer AIO
-RustDesk ID Changer AIO
+# RustDesk ID 转换器 AIO
+RustDesk ID 转换器 AIO
 
-RustDesk Github: https://github.com/rustdesk/rustdesk
+RustDesk Github：https://github.com/rustdesk/rustdesk
 
-You will be able to change the RustDesK ID information as you wish with the script.
+您将能够使用脚本根据需要更改 RustDesK ID 信息。
 
-Detailed description for options in script
+脚本中选项的详细说明
 
 	"Set RustDesk ID with computer name" Description:
-With the powershell script file here, the ID information of the RustDesk remote connection program will automatically turn into the name of the host computer.
+通过这里的powershell脚本文件，RustDesk远程连接程序的ID信息会自动转为宿主机的名称。
 
-There is no need to reboot.
+无需重新启动。
 
-RustDesk ID information sometimes does not change after image deployment in computer laboratory environments, the problem will be solved with this script file.
+RustDesk ID 信息在计算机实验室环境中镜像部署后有时不会改变，该脚本文件将解决该问题。
 
 
 	"Set RustDesk ID with 9-digit random numbers" Description:
-With the powershell script file here, the ID information of the RustDesk remote connection program will be converted into a value created from 9-digit random numbers.
+通过这里的powershell脚本文件，RustDesk远程连接程序的ID信息会转换成9位随机数组成的值。
 
-There is no need to reboot.
+无需重新启动。
 
 
 	"Set the RustDesk ID to the value you specify" Description:
 
-With the powershell script file here, the ID information of the RustDesk remote connection program will be converted to the value specified by the user.
+通过这里的powershell脚本文件，RustDesk远程连接程序的ID信息会转换为用户指定的值。
 
-There is no need to reboot.
+无需重新启动。
 
+所有 powershell 脚本均在 Windows 7 - 8.1 - 10 和 11 上测试。
 
-All powershell scripts tested on Windows 7 - 8.1 - 10 and 11.
-
-Sample preview:
+示例预览：
 
 ![sample](https://github.com/abdullah-erturk/RustDesk-ID-Changer/blob/main/RustDesk_ID_Changer.jpg)
 
